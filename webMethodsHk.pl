@@ -63,7 +63,7 @@ use constant FALSE => 0;
 
 use constant DEFAULT_LOG_PATH => '/tmp';
 use constant DEFAULT_DEL_DAYS => 28;
-use constant ALLOW_PATTERN => qr(^/app/opt/sag/9.12/MWS/MWS/server/TSTMWS912a/logs|^/app/opt/sag/9.12/MWS/profiles/MWS_TSTMWS912a/configBackup);
+use constant ALLOW_PATTERN => qr(^/home/richyg/mynewproject|^/app/opt/sag/9.12/MWS/profiles/MWS_TSTMWS912a/configBackup);
 
 my $zipStamp = strftime('%Y%m%d',localtime);	# Daily timestamp for archived files
 my $logStamp = strftime('%Y%m',localtime);	# Monthly timestamp for log file
