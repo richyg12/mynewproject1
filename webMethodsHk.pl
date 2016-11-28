@@ -7,7 +7,7 @@ use POSIX qw(strftime);
 # ##############################################################################
 # Name:		webMethodsHk.pl
 #
-# Ver:		1.2
+# Ver:		1.2 dhsd oiashdpoisad 
 #
 # Desc:		File housekeeping script. Deletes and/or Archives files as
 #		specified in webMethodsHk.conf
