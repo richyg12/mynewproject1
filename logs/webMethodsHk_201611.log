@@ -896,3 +896,27 @@ Thu Nov 24 19:35:02 2016 [I] Processing config line "/home/richyg/mynewproject/l
 Thu Nov 24 19:35:02 2016 [I] 0 files deleted
 Thu Nov 24 19:35:02 2016 [I] Processing config line "/home/richyg/mynewproject/configbackup,*.tar*,1"
 Thu Nov 24 19:35:02 2016 [I] 0 files deleted
+Sat Nov 26 11:00:02 2016 [I] Processing config line "b:/home/richyg/mynewproject/config,/home/richyg/mynewproject/configbackup"
+Sat Nov 26 11:00:02 2016 [I] Successfully backed up /home/richyg/mynewproject/config to /home/richyg/mynewproject/configbackup/config_20161126.tar
+Sat Nov 26 11:00:02 2016 [I] Processing config line "/home/richyg/mynewproject/logs,*.log*,1"
+Sat Nov 26 11:00:02 2016 [I] 0 files deleted
+Sat Nov 26 11:00:02 2016 [I] Processing config line "/home/richyg/mynewproject/configbackup,*.tar*,1"
+Sat Nov 26 11:00:02 2016 [I] 2 files deleted
+Sun Nov 27 11:00:01 2016 [I] Processing config line "b:/home/richyg/mynewproject/config,/home/richyg/mynewproject/configbackup"
+Sun Nov 27 11:00:01 2016 [I] Successfully backed up /home/richyg/mynewproject/config to /home/richyg/mynewproject/configbackup/config_20161127.tar
+Sun Nov 27 11:00:01 2016 [I] Processing config line "/home/richyg/mynewproject/logs,*.log*,1"
+Sun Nov 27 11:00:01 2016 [I] 0 files deleted
+Sun Nov 27 11:00:01 2016 [I] Processing config line "/home/richyg/mynewproject/configbackup,*.tar*,1"
+Sun Nov 27 11:00:01 2016 [I] 1 files deleted
+Mon Nov 28 11:00:01 2016 [I] Processing config line "b:/home/richyg/mynewproject/config,/home/richyg/mynewproject/configbackup"
+Mon Nov 28 11:00:01 2016 [I] Successfully backed up /home/richyg/mynewproject/config to /home/richyg/mynewproject/configbackup/config_20161128.tar
+Mon Nov 28 11:00:01 2016 [I] Processing config line "/home/richyg/mynewproject/logs,*.log*,1"
+Mon Nov 28 11:00:01 2016 [I] 0 files deleted
+Mon Nov 28 11:00:01 2016 [I] Processing config line "/home/richyg/mynewproject/configbackup,*.tar*,1"
+Mon Nov 28 11:00:02 2016 [I] 0 files deleted
+Mon Nov 28 20:27:34 2016 [I] Processing config line "b:/home/richyg/mynewproject/config,/home/richyg/mynewproject/configbackup"
+Mon Nov 28 20:27:34 2016 [I] Successfully backed up /home/richyg/mynewproject/config to /home/richyg/mynewproject/configbackup/config_20161128.tar
+Mon Nov 28 20:27:34 2016 [I] Processing config line "/home/richyg/mynewproject/logs,*.log*,1"
+Mon Nov 28 20:27:34 2016 [I] 0 files deleted
+Mon Nov 28 20:27:34 2016 [I] Processing config line "/home/richyg/mynewproject/configbackup,*.tar*,1"
+Mon Nov 28 20:27:34 2016 [I] 1 files deleted
