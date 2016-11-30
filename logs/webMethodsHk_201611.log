@@ -920,3 +920,15 @@ Mon Nov 28 20:27:34 2016 [I] Processing config line "/home/richyg/mynewproject/l
 Mon Nov 28 20:27:34 2016 [I] 0 files deleted
 Mon Nov 28 20:27:34 2016 [I] Processing config line "/home/richyg/mynewproject/configbackup,*.tar*,1"
 Mon Nov 28 20:27:34 2016 [I] 1 files deleted
+Tue Nov 29 11:00:02 2016 [I] Processing config line "b:/home/richyg/mynewproject/config,/home/richyg/mynewproject/configbackup"
+Tue Nov 29 11:00:02 2016 [I] Successfully backed up /home/richyg/mynewproject/config to /home/richyg/mynewproject/configbackup/config_20161129.tar
+Tue Nov 29 11:00:02 2016 [I] Processing config line "/home/richyg/mynewproject/logs,*.log*,1"
+Tue Nov 29 11:00:02 2016 [I] 0 files deleted
+Tue Nov 29 11:00:02 2016 [I] Processing config line "/home/richyg/mynewproject/configbackup,*.tar*,1"
+Tue Nov 29 11:00:02 2016 [I] 1 files deleted
+Wed Nov 30 11:00:02 2016 [I] Processing config line "b:/home/richyg/mynewproject/config,/home/richyg/mynewproject/configbackup"
+Wed Nov 30 11:00:02 2016 [I] Successfully backed up /home/richyg/mynewproject/config to /home/richyg/mynewproject/configbackup/config_20161130.tar
+Wed Nov 30 11:00:02 2016 [I] Processing config line "/home/richyg/mynewproject/logs,*.log*,1"
+Wed Nov 30 11:00:02 2016 [I] 0 files deleted
+Wed Nov 30 11:00:02 2016 [I] Processing config line "/home/richyg/mynewproject/configbackup,*.tar*,1"
+Wed Nov 30 11:00:02 2016 [I] 0 files deleted
